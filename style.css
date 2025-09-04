@@ -163,8 +163,21 @@ ul {
 @media screen and (max-width:480px){
   p{font-size:50px;}
 }
+@media (min-width: 320px) {
+img,a{width:100%;}
+  
+}
 
+@media (min-width: 768px) {
+   
+}
+@media (min-width: 1200px) {
+  
+}
 
+@media (min-width: 1400px) {
+  
+}
 
 
 
