@@ -166,6 +166,9 @@ ul {
 @media (min-width: 320px) {
 img,a{width:100%;}
   body{font-size:50px;}
+}
+  li.menu_item {
+    padding: 20px;
   
 }
 
@@ -179,6 +182,7 @@ img,a{width:100%;}
 @media (min-width: 1400px) {
   img,a{width:100%;}
 }
+
 
 
 
