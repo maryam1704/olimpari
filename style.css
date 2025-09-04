@@ -165,19 +165,21 @@ ul {
 }
 @media (min-width: 320px) {
 img,a{width:100%;}
+  p{font-size:1.5em;}
   
 }
 
 @media (min-width: 768px) {
-   
+   img,a{width:100%;}
 }
 @media (min-width: 1200px) {
-  
+  img,a{width:100%;}
 }
 
 @media (min-width: 1400px) {
-  
+  img,a{width:100%;}
 }
+
 
 
 
