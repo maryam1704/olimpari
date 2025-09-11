@@ -1,3 +1,4 @@
+
 html {
   scroll-behavior: smooth;
 }
@@ -167,7 +168,7 @@ ul {
 img,a{width:100%;}
   body{font-size:50px;}
 
-  li.menu_item {
+  li{
     padding: 20px;}
   
 }
@@ -182,6 +183,7 @@ img,a{width:100%;}
 @media (min-width: 1400px) {
   img,a{width:100%;}
 }
+
 
 
 
