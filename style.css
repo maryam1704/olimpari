@@ -168,7 +168,7 @@ ul {
 img,a{width:100%;}
   body{font-size:50px;}
 
-  li{
+  li,p{
     padding: 20px;}
   
 }
@@ -183,6 +183,7 @@ img,a{width:100%;}
 @media (min-width: 1400px) {
   img,a{width:100%;}
 }
+
 
 
 
