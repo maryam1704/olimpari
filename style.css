@@ -170,7 +170,7 @@ img,a{width:100%;}
 
   li,p{
     padding: 20px;}
-  
+  p{line-height:1em;}
 }
 
 @media (min-width: 768px) {
@@ -183,6 +183,7 @@ img,a{width:100%;}
 @media (min-width: 1400px) {
   img,a{width:100%;}
 }
+
 
 
 
